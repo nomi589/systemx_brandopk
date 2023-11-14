@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "971527651622",
+    "project_id": "brando-pk",
+    "storage_bucket": "brando-pk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971527651622:android:bb74b7e092d288b52dc1e7",
+        "android_client_info": {
+          "package_name": "com.systemx.brando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971527651622-asfrgs6msdtrssqfii1er71qnmogt5km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoiW__ZVO3TqKUtNLQhf4cLRgQbs39rqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971527651622-asfrgs6msdtrssqfii1er71qnmogt5km.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "971527651622-bipr4egb0idibqfinda2cfe1aa23ibte.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.systemx.brando"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
